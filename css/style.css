@@ -235,7 +235,7 @@ body {
 }
 
 .active {
-    color: #000000;
-    font-weight: normal;
+    color: #000000 !important;
+    font-weight: normal !important;
 }
 /**============ End import part ============**/
