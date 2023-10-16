@@ -1,0 +1,142 @@
+					/**============ Start About part ============**/
+                    #about-part{
+                        margin: 100px;
+                    }
+                    #about-part .about-left{
+                        width: 50%;
+                        float: left;
+                        padding-right: 50px;
+                        margin-left: -100px;
+                    }
+                    .title h5{
+                        font-family: 'Open Sans', sans-serif;
+                        font-size: 14px;
+                        font-weight: 300;
+                        color: #0f2f44;
+                    }
+                    .title h3{
+                        font-family: 'Abril Fatface', cursive;
+                        font-size: 32px;
+                        font-weight: 300;
+                        margin-top: -7px;
+                        color: #0f2f44;
+                    }
+                    #about-part .about-left p{
+                        font-family: 'Open Sans', sans-serif;
+                        font-size: 16px;
+                        font-weight: 300;
+                        color: #0f2f44;
+                        margin: 20px 0;
+                    }
+                    #about-part .about-left ol{
+                        margin-left: 20px;
+                    }
+                    #about-part .about-left ol li{
+                        font-family: 'Open Sans', sans-serif;
+                        font-size: 16px;
+                        font-weight: 300;
+                        color: #0f2f44;
+                        margin: 15px 0;
+                    }
+                    #about-part .about-left a{
+                        text-decoration: none;
+                        font-family: 'Open Sans', sans-serif;
+                        font-size: 20px;
+                        font-weight: 500;
+                        display: inline-block;
+                        color: #0f2f44;
+                        background: #fff;
+                        padding: 8px 20px;
+                        margin-top: 20px;
+                        margin-left: 15px;
+                        border-radius: 5px;
+                        box-shadow: 4px 4px 12px 5px rgba(0,0,0,0.05);
+                        transition: 0.4s;
+                    } 
+                    #about-part .about-left a:hover{
+                        background: #fcc512;
+                    }
+                    #about-part .about-right{
+                        width: 50%;
+                        float: left;
+                        /* margin-bottom: 500px; */
+                    }
+
+
+
+
+                    /* Apply styles to the video container */
+                    .video-container {
+                    max-width: 100%;
+                    text-align: center;
+                    /* margin-bottom: 200px; */
+                    }
+
+/* Style the video element */
+                    video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    /* margin: 0 auto; */
+    margin: 45px auto;
+                    }
+
+
+/**============ Start import part ============**/
+.tab-pane {
+    color: black
+}
+
+
+
+
+
+
+.container .potato-d p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #0f2f44;
+    margin: 20px 0;
+}
+.container .potato-d ol{
+    margin-left: 20px;
+}
+.container .potato-d ol li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #0f2f44;
+    margin: 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container .potato-d a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-block;
+    color: #0f2f44;
+    background: #fff;
+    padding: 8px 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px 5px rgba(0,0,0,0.05);
+    transition: 0.4s;
+} 
+.container .potato-d a:hover{
+    background: #fcc512;
+}
+/**============ End import part ============**/
