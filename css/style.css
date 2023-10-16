@@ -1,4 +1,14 @@
-					/**============ Start About part ============**/
+
+
+
+
+
+
+
+
+
+
+/**============ Start About part ============**/
                     #about-part{
                         margin: 100px;
                     }
@@ -88,6 +98,8 @@
     /* font-weight: bold; */
 }
 
+
+
 /*     <!-- img and text start --> */
 
 
@@ -124,10 +136,10 @@ body {
     max-height: 80vh;
 }
   
-  .dark {
+  /* .dark {
     background: #282828;
     color: #fff;
-  }
+  } */
   
   /*  */
   .main-container {
@@ -150,10 +162,7 @@ body {
     flex-basis: 50%;
   }
 
-  .active {
-    color: #000001;
-    font-weight: normal;
-}
+
 
   
 @media only screen and (min-width: 1500px) {
@@ -213,7 +222,7 @@ body {
     font-weight: 500;
     display: inline-block;
     color: #ffffff;
-    background: #152e93;
+    background: #064c75;
     padding: 8px 20px;
     margin-top: 20px;
     margin-left: 15px;
@@ -223,5 +232,10 @@ body {
 } 
 .main-container a:hover{
     background: #fcc512;
+}
+
+.active {
+    color: #000000;
+    font-weight: normal;
 }
 /**============ End import part ============**/
